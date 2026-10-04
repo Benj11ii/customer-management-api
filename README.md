@@ -2,14 +2,6 @@
 
 API RESTful desarrollada con Laravel para la gestión de clientes de Fintech Solutions S.A.
 
-## Integrantes
-
-- Benjamín Alonso Carmona Vega
-
-## Repositorio GitHub
-
-https://github.com/Benj11ii/Evaluacion_unidad2_Backend_IPSS
-
 ## Stack Técnico
 
 - PHP 8.2
@@ -59,3 +51,8 @@ https://github.com/Benj11ii/Evaluacion_unidad2_Backend_IPSS
 - `database/migrations/` — Migraciones de base de datos
 - `routes/api.php` — Definición de rutas
 - `EVA2_CarmonaVega.postman_collection.json` — Colección Postman
+
+---
+**Desarrollado por:**  
+Benjamín Alonso Carmona Vega — Senior Backend & Systems Engineer  
+https://www.iasesoria.cl
